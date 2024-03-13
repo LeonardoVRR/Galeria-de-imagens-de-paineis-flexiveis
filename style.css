@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "Glitch";
+  src: url(fontes/Doctor\ Glitch.otf) format(opentype);
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+}
+
+.panels {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.panels__panel {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+
+  height: 100vh;
+  color: #000000;
+  font-size: 1.5cm;
+  font-weight: bolder;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.panels__panel p:nth-child(1) {
+  font-family: "Glitch", Helvetica, sans-serif;
+  color: black;
+  margin-bottom: 20px;
+}
+.panels__panel p:nth-child(odd){
+    display: none;
+}

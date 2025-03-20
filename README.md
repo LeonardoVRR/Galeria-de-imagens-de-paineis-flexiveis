@@ -17,7 +17,8 @@ esse projeto contem 5 paineis com imagens que ao clicar em um dos paineis ele va
 não é necessário nenhum pré-requisito é só acessar o projeto pelo link disponibilizado em [Acesso ao Projeto](#acesso-ao-projeto) e utiliza-lo.
 
 ## Resultado final do projeto
-![demo](https://github.com/LeonardoVRR/Galeria-de-imagens-de-paineis-flexiveis/assets/102774822/6ceec64d-3413-4ab1-a1b1-9f24e55abec5)
+![demo](https://github.com/user-attachments/assets/0f2ad091-4708-43dd-b219-044b2da02a2d)
+
 
 ## Acesso ao Projeto
 para acessar o projeto utilize o seguinte link:
